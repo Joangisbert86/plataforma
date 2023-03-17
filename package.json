@@ -1,0 +1,14 @@
+{
+  "name": "plataforma",
+  "version": "1.0.0",
+  "description": "Mi sitio web personalizado",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 8080"
+  },
+  "author": "Tu nombre",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
